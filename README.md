@@ -19,5 +19,5 @@
 </div>
 
 
-![Snake animation](https://github.com/Kaio-0708/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Kaio-0708/Kaio-0708/blob/output/github-contribution-grid-snake.svg)
 
