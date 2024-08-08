@@ -12,7 +12,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>
 
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio-0708&layout=compact&langs_count=10&hide=html,css&theme=default&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio-0708&layout=compact&langs_count=10&theme=default&hide_border=true)
 
 
 
