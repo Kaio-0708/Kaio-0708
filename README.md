@@ -12,7 +12,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>
 
 
-
+![GitHub top language](https://img.shields.io/github/languages/top/Kaio-0708/REPOSITORY)
 ![GitHub language count](https://img.shields.io/github/languages/count/Kaio-0708/REPOSITORY)
 
 
