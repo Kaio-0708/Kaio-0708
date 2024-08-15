@@ -13,7 +13,7 @@
 
 
 
-
+![GitHub language count](https://img.shields.io/github/languages/count/Kaio-0708/REPOSITORY)
 
 
 
