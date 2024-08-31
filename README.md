@@ -12,10 +12,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>
 
 
-![GitHub top language](https://img.shields.io/github/languages/top/Kaio-0708)
-
-![GitHub top language](https://img.shields.io/github/languages/top/johndoe/my-awesome-project)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio-0708&layout=compact)
 
 
 
