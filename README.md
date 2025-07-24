@@ -1,4 +1,4 @@
-## Hi! My name is Kaio! Welcome to my Github profile. I am currently studying Computer Science at the Federal University of Campina Grande (UFCG)
+## Hi! My name is Kaio! Welcome to my Github profile. I am currently studying Computer Science at the Federal University of Campina Grande (UFCG).
 
 
 ## I'm studying:
