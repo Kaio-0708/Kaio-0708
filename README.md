@@ -1,7 +1,7 @@
 ## Hi! My name is Kaio! Welcome to my Github profile. I am currently studying Computer Science at the Federal University of Campina Grande (UFCG).
 
 ## I'm studying:
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+<div style="display: flex; flex-wrap: wrap; gap: 50px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -17,8 +17,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>
 </div>
 
-## Tools
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+## Tools:
+<div style="display: flex; flex-wrap: wrap; gap: 50px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
