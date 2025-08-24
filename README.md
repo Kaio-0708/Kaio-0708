@@ -1,6 +1,6 @@
 ## Hi! My name is Kaio, and I'm passionate about technology! Welcome to my Github profile. I am currently studying Computer Science at the Federal University of Campina Grande (UFCG).
 
-## I'm studying:
+## I'm studying
 <div style="display: flex; flex-wrap: wrap; gap: 50px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" width="auto"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" width="auto"/>
@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="70" width="70"/>
 </div>
 
-## Tools:
+## Tools
 <div style="display: flex; flex-wrap: wrap; gap: 50px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
@@ -52,6 +52,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" height="40"/>
 </div>
 <br>
+
+## Contact
 <div> 
   <a href = "mailto:kaiovitor0707@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaio-vitor-programador" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
