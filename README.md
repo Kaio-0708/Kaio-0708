@@ -1,4 +1,4 @@
-## Hi! My name is Kaio! Welcome to my Github profile. I am currently studying Computer Science at the Federal University of Campina Grande (UFCG).
+## Hi! My name is Kaio, and I'm passionate about technology! Welcome to my Github profile. I am currently studying Computer Science at the Federal University of Campina Grande (UFCG).
 
 ## I'm studying:
 <div style="display: flex; flex-wrap: wrap; gap: 50px;">
