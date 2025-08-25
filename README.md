@@ -64,8 +64,7 @@
    <a href="https://portf-lio-orcin.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
 </div>
 
-
-
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio-0708&layout=compact&langs_count=10&theme=radical)
 
 
 
