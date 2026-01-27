@@ -2,7 +2,7 @@
 - Full Stack
 - Databases
 - Data Science and Machine Learning
-- Cybersecurity
+- Cybersecurity (Cryptography)
 - DevOps
 - Infrastructure (Infra)
 
