@@ -4,6 +4,7 @@
 - Data Science and Machine Learning
 - Cybersecurity
 - DevOps
+- Infrastructure (Infra)
 
 ## Languages ​​and frameworks I am studying:
 <div style="display: flex; flex-wrap: wrap; gap: 50px; align-items: center;">
