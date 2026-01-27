@@ -1,7 +1,7 @@
 ## Hi! My name is Kaio, and I'm passionate about technology! Welcome to my Github profile. I am currently studying Computer Science at the Federal University of Campina Grande (UFCG). Areas of Study:
 - Full Stack
 - Databases
-- Data Science and Machine Learning
+- Data Science, Machine Learning and Computer Vision
 - Cybersecurity (Cryptography)
 - DevOps
 - Infrastructure (Infra)
