@@ -1,6 +1,11 @@
-## Hi! My name is Kaio, and I'm passionate about technology! Welcome to my Github profile. I am currently studying Computer Science at the Federal University of Campina Grande (UFCG).
+## Hi! My name is Kaio, and I'm passionate about technology! Welcome to my Github profile. I am currently studying Computer Science at the Federal University of Campina Grande (UFCG). Knowledge and Areas of Study:
+- Full Stack
+- Databases
+- Data Science and Machine Learning
+- Cybersecurity
+- DevOps
 
-## I'm studying
+## Languages ​​and frameworks I am studying:
 <div style="display: flex; flex-wrap: wrap; gap: 50px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" width="auto"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" width="auto"/>
